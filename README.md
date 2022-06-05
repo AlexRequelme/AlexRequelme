@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
 
 ### GitHub Stats: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRequelme&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRequelme&show_icons=true&count_private=true)
 
 ### Top Languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRequelme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
